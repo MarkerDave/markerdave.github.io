@@ -1,5 +1,7 @@
 ---
 author: dave
+header:
+  teaser: /assets/images/scanning_lidar_system/image3D2.png
 ---
 <p>For my final thesis in 2018 I worked on building a scanning LIDAR system. The idea of this system was that it could be used to detect objects and determine their size form far away or measure how far filled up a container was.</p>
 
