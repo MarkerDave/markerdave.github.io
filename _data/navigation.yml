@@ -7,7 +7,7 @@ main:
     url: /blog
   # - title: "Photos"
   #   url: /photos
-  # - title: "projects"
-  #   url: /projects
+  - title: "projects"
+    url: /projects
   # - title: "portfolio"
   #   url: /portfolio
