@@ -64,7 +64,7 @@ The nozzle is clamped between a plate and the wallsection.</p>
 
 <p>Now the big question is, Does it work?: Yes, buuuut there is alot that can be improved. The current nozzle needs to be redesigned. The walls of the nozzle head and center part need to be strengthened because the walls are currently are so thin that they easely crack when a small amount of tension is exerted when assembling the whole nozzle.</p>
 
- <p>Also the 3D printed axle of the turbine assembly is not straight which causes the turbine not to rotate freely and thus wasting alot of energy. This is more a problem of the limitation of the Anet A8 3D printer but it is something that needs to be taken in considereation when designing these parts.</p>
+ <p>Also the 3D printed axle of the turbine assembly is not straight which causes the turbine not to rotate freely and because of this wasting alot of energy. This is more a problem of the limitation of the Anet A8 3D printer but it is something that needs to be taken in considereation when designing these parts.</p>
 
 <figure class="half">
     <img src="/assets/images/3D_printable_pelton_turbine/assembled_case.jpg">
