@@ -1,5 +1,7 @@
 ---
 author: dave
+header:
+  teaser: /assets/images/3D_printable_pelton_turbine/assembled_case.jpg
 ---
 
 <p>The main reason that I started this project was to practice working with 3D CAD software and designing 3D printable parts. For this project I have used Fusion 360 for the designing and an Anet-A8 3D printer with ColorFab Ngen filament. The design wil be made opensource after I have made some small changes to fix a few problems with the current design.</p>
